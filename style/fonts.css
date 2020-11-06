@@ -1,0 +1,51 @@
+/* 
+
+MONTSERRAT
+
+*/
+
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Montserrat Medium';
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf);
+    font-weight: 500;
+}
+@font-face{
+    font-family: 'Montserrat Bold';
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
+/* 
+
+PROSTO ONE
+
+*/
+@font-face{
+    font-family: 'Prosto_One';
+    src: url(../fonts/Prosto_One/ProstoOne-Regular.ttf);
+    font-weight: 400;
+}
+/* 
+
+FONT AWESOME
+
+*/
+@font-face{
+    font-family: 'Awesome';
+    src: url(../fonts/Awesome/fa-light-300.ttf);
+    font-weight: 300;
+}
+@font-face{
+    font-family: 'Awesome';
+    src: url(../fonts/Awesome/fa-brands-400.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Awesome';
+    src: url(../fonts/Awesome/fa-duotone-900.ttf);
+    font-weight: 900;
+}

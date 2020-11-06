@@ -1,0 +1,18 @@
+.fal::before{
+    content: '\f002';
+    font-weight: 300;
+}
+.fa-shopping-bag::before{
+    content: '\f290';
+    font-weight: 300;
+}
+.fa-cc-visa::before{
+    content: '\f1f0';
+}
+.fa-cc-mastercard::before{
+    content: '\f1f1';
+}
+.fa-external-link::before{
+    content: '\f08e';
+    font-weight: 300;
+}
